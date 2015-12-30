@@ -1,0 +1,2 @@
+CREATE DATABASE simplespring IF NOT EXISTS;
+CREATE TABLE Employee(id VARCHAR(50), name VARCHAR(50), age INT);
